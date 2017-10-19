@@ -10,11 +10,9 @@
     <body>
         <h1>Ejemplo de Sesiones</h1>
         <br>
-        <form action='SesionesServlet' method="POST">
-            NOMBRE: <input type="text" name="NOMBRE">
-            <br />
-            APELLIDO: <input type="text" name="APELLIDO" />
-            <input type="submit" value="Submit" />
+        <form action='' method="POST">
+            BIENVENIDO!
+            <img id="imagenlogo" src="panda.jpg" alt="woop woop">
         </form>
     </body>
 </html>
